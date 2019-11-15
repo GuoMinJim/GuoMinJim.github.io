@@ -1,7 +1,7 @@
 # Site settings
-title:
+title: Just do it
 SEOTitle: 金国民的博客
-header-img: img/1573800885(1).jpg
+header-img: img/1573801364(1).jpg
 email: jinguomin997@gmail.com
 description: "talk is cheap"
 keyword: "金国民, 博客, 金国民的博客, 心得, java, spring, spring boot"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/GuoMinJim/guominjin.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "better and better!"
+sidebar-about-description: "be better!"
 sidebar-avatar: /img/post-bg-desk.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
