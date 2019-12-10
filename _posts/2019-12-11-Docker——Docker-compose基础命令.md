@@ -104,7 +104,7 @@ docker import http://example.com/exampleimage.tgz example/imagerepo
 docker tag ubuntu:18.04 username/ubuntu:18.04
 ```
 
-#docker compose
+# docker compose
 ## 术语
 > 服务 (service)：一个应用容器，实际上可以运行多个相同镜像的实例。
 > 项目 (project)：由一组关联的应用容器组成的一个完整业务单元。
@@ -126,7 +126,7 @@ docker-compose [-f=<arg>...] [options] [COMMAND] [ARGS...]
 -v --version 打印版本并退出
 ```
 
-##命令使用说明
+## 命令使用说明
 > 构建（重新构建）项目中的服务容器
 > 服务容器一旦构建，将会带上一个标记名。web项目下db--->web_db
 ```
